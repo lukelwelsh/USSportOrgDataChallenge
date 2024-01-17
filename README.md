@@ -1,6 +1,8 @@
 # U.S. Sport Organization
 Data Challenge with the U.S. Sport Organization
 
+This project provides insights towards which five USA gymnasts should be chosen to represent the country for the 2024 Olympic games in artistic gymnastics. Through the use of Monte Carlo simulation, many different possible lineups are assessed against the prospective field of competitors in order to simulate the format of the Olympic competition.
+
 ## Description of Workings of Different Files:
 
 data_2022_2023.csv: All data with which to base analysis on
